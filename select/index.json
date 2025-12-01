@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Clap Snap / Icona Pop 歌ってみた【和訳】 covered by キャメ",
+  "base_artist": "キャメちゃん Came Channel",
+  "createdAt": "2025-12-01T03:55:52.151982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clap Snap",
+      "artist": "Icona Pop",
+      "has_synced": true,
+      "path": "select/01_Clap_Snap_Icona_Pop.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Clap Snap",
+      "artist": "Icona Pop",
+      "has_synced": true,
+      "path": "select/02_Clap_Snap_Icona_Pop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Icona Pop - Clap Snap",
+      "artist": "Icona Pop",
+      "has_synced": true,
+      "path": "select/03_Icona_Pop_-_Clap_Snap_Icona_Pop.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Clap Snap",
+      "artist": "Icona Pop",
+      "has_synced": true,
+      "path": "select/04_Clap_Snap_Icona_Pop.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clap Snap (Original Mix)",
+      "artist": "Icona Pop",
+      "has_synced": true,
+      "path": "select/05_Clap_Snap_(Original_Mix)_Icona_Pop.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clap Snap",
+      "artist": "Icona Pop",
+      "has_synced": false,
+      "path": "select/pl_01_Clap_Snap_Icona_Pop.txt"
+    }
+  ]
+}
